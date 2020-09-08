@@ -8,7 +8,7 @@
 
 *Answers:*
 
-A module is a collection of behaviors (exposed as methods) that is useable in classes via `mixins`. Modules are a way to achieve polymorphism. Modules are utilized by using the `include` invocation in a class.
+A module is a collection of code (methods, CONSTANTS) that is useable in classes via `mixins`. Modules are a way to achieve polymorphism. Modules are utilized by using the `include` invocation in a class.
 
 ```ruby
 module MyModule
