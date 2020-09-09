@@ -1,6 +1,5 @@
-# Add a class variable to your superclass that can keep track of the number of objects
-# created that inherit from the superclass. Create a method to print out the value of this
-# class variable as well.
+# Create a module that you can mix in to one of your subclasses that describes a behavior
+# unique to that subclass.
 
 module SprayPaint
   def spray_paint(new_color)
